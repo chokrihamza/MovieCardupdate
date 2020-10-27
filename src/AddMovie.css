@@ -1,0 +1,16 @@
+.AddMovie__Style{
+    
+     top:15%;
+    position:sticky;
+    z-index: 20;
+    outline: hidden;
+    
+    
+    
+}
+
+.AddIcon__CSS{
+    display: flex;
+    flex:1;
+}
+

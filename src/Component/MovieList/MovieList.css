@@ -1,0 +1,12 @@
+.MovieList__style{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    
+}
+
+@media all and (max-width: 600px) {
+    body {
+      background-color:lightcoral;
+    }
+  }

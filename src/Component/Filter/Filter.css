@@ -1,0 +1,17 @@
+.jumbotron{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Henny Penny', cursive;
+    color:#61dafb;
+    height: 160px;
+}
+
+.NavBar{
+    position: sticky;
+    top: 0%;
+    background-color:rgba(0, 0, 0, 0.7);
+    z-index: 30;
+    display: flex;
+    justify-content: space-between;
+}
+
